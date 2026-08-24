@@ -1,0 +1,45 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260824-112214-rvrd",
+      "title": "Warsworn Immortal",
+      "commanders": [
+        "Warsworn Immortal"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-08-24T01:22:14.000Z",
+      "dateEnd": "2026-08-24T03:55:12.679Z",
+      "dateLabel": "8/24/2026, 11:22:14 AM - 8/24/2026, 1:55:12 PM",
+      "url": "https://carvis-SnS.github.io/ipickle/?report=20260824-112214-rvrd",
+      "summary": {
+        "borderlandsPct": 0.8536585365853658,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 37
+      }
+    }
+  ]
+}
