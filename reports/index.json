@@ -1,8 +1,37 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20261005-010937-4moa",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-04T14:09:37.000Z",
+      "dateEnd": "2026-10-04T14:50:40.850Z",
+      "dateLabel": "10/5/2026, 1:09:37 AM - 10/5/2026, 1:50:40 AM",
+      "url": "https://carvis-SnS.github.io/ipickle/?report=20261005-010937-4moa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 87,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20260824-112214-rvrd",
       "title": "Warsworn Immortal",
