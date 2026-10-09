@@ -5,9 +5,39 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.2"
   },
   "entries": [
+    {
+      "id": "20261010-011547-t6ha",
+      "title": "Carvis Ona Enge, Carvista",
+      "commanders": [
+        "Carvis Ona Enge",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-09T14:15:47.000Z",
+      "dateEnd": "2026-10-09T14:52:12.836Z",
+      "dateLabel": "10/10/2026, 1:15:47 AM - 10/10/2026, 1:52:12 AM",
+      "url": "https://carvis-SnS.github.io/ipickle/?report=20261010-011547-t6ha",
+      "publishedBy": "carvis-SnS",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 83,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
     {
       "id": "20261009-011230-j0q7",
       "title": "Carvista",
