@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261023-001033-01e8",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-22T13:10:33.000Z",
+      "dateEnd": "2026-10-22T13:41:25.546Z",
+      "dateLabel": "10/23/2026, 12:10:33 AM - 10/23/2026, 12:41:25 AM",
+      "url": "https://carvis-sns.github.io/ipickle/?report=20261023-001033-01e8",
+      "publishedBy": "carvis-SnS",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261024-010814-vn33",
       "title": "Carvista",
       "commanders": [
