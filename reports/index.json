@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261028-214042-qxae",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-28T10:40:42.000Z",
+      "dateEnd": "2026-10-28T11:48:21.929Z",
+      "dateLabel": "10/28/2026, 9:40:42 PM - 10/28/2026, 10:48:21 PM",
+      "url": "https://carvis-sns.github.io/ipickle/?report=20261028-214042-qxae",
+      "publishedBy": "carvis-SnS",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261027-202740-oqe7",
       "title": "Carvis Ona Enge, Elesux",
       "commanders": [
